@@ -3,8 +3,6 @@
 
 
  ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
- Agr vai!!!
- Embusca do primeiro emprego.
- Estudando React e Js.
+ Estudando React e Node.
  ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
